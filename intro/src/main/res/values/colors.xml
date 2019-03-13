@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="mi_status_bar_background">#ffffff</color>
+    <color name="mi_ripple_color">#a80c2f</color>
+
+    <color name="mi_text_color_primary_light">#ffffff</color>
+    <color name="mi_text_color_secondary_light">#ffffff</color>
+    <color name="mi_text_color_primary_dark">#a80c2f</color>
+    <color name="mi_text_color_secondary_dark">#a80c2f</color>
+
+    <color name="mi_icon_color_dark">#a80c2f</color>
+    <color name="mi_icon_color_light">#a80c2f</color>
+</resources>
